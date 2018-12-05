@@ -1,0 +1,8 @@
+NAME = input(' What is your name? ')
+print(' UGH I HATE YOU ' + NAME )
+COLOR = input(' What is your favorite color? ')
+print(' UGH I HATE, ' + COLOR + ' THERE ARE SO MANY BETTER COLORS. ') 
+SUBJECT = input(' What is your favorite subject in school?' )
+print( ' UGH, I HATE' + SUBJECT + ' I HATE EVERYTHING ')
+YOU = input( ' Are you dumb?' )
+print( ' I HATE YOU STOOPID :/ ' )
